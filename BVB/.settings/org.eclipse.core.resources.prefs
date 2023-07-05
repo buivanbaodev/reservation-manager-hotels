@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/main/java/bean/BeanKhachSan.java=UTF-8
+encoding//src/main/java/bean/BeanLoaiKhachSan.java=UTF-8
+encoding//src/main/java/bean/BeanNavigation.java=UTF-8
+encoding//src/main/java/bean/BeanNguoiDung.java=UTF-8
+encoding//src/main/java/bean/BeanPhong.java=UTF-8
+encoding//src/main/java/bean/BeanTaiKhoan.java=UTF-8
+encoding//src/main/java/bean/BeanThanhPho.java=UTF-8
+encoding//src/main/java/filter/MyFilter.java=UTF-8
+encoding//src/main/java/model/BuaAn.java=UTF-8
+encoding//src/main/java/model/LichSu.java=UTF-8
+encoding//src/main/java/util/CompareDate.java=UTF-8
+encoding//src/main/java/util/VNCharacterUtils.java=UTF-8
